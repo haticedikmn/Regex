@@ -54,14 +54,6 @@ yakalar ve imleci son karakterin sağ tarafına getirir**
 
 - **"\b" kelime sınırı (word boundary)**
 
-### Tekrar Sayısı
-
-- **"?" opsiyonel (0 veya 1 kez) kullanım**
-
-- **"+" en az bir kez veya daha fazla kullanım**
-
-- **"*" hiç olmayabilir veya birden fazla kullanım**
-
 ### Kısa Tanımlar
 
 - **"\w" a dan z ye, A dan Z ye, 0123456789, _ karakterlerini yakalar [ a-zA-Z0-9_ ]**
